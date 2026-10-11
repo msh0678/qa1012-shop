@@ -1,0 +1,1 @@
+매장 사진을 넣는 폴더입니다. 예: shop-front.jpg 를 넣고 index.html의 <img src="images/shop-front.jpg"> 로 연결하세요.
